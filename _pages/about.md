@@ -8,4 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a quantitative researcher / data scientist currently employed by Citigroup in London, 
+where I lead the development of data-driven analytics and automation for the FX options 
+trading business using modern quantitative techniques including machine learning.
+
+I have current academic interests principally in data science and machine learning and their application 
+to problems in finance and physics. Please see X for a summary of my research, and Y
+for a list of my publications.
+From January 2024 I will be a visiting fellow at the Data Science Institute of the London 
+School of Economics (LSE). 
+
+Academically, I am trained as a theoretical / computational physicist. I obtained 
+my PhD from the University of Cambridge, where I was a student of Claudio Castelnovo in the 
+Theory of Condensed Matter (TCM) Group at the Cavendish Laboratory. 
+I received my undergraduate masters degree from the University of Warwick where I received the 
+Styles Prize for Excellence as the top graduating student in Physics. 
+I retain a keen interest in physics, especially statistical physics and frustrated magnetism.  
