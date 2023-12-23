@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "James Hamp"
   avatar           : "joh.jpg"
-  bio              : "Quantitative Researcher / Data Scientist"
+  bio              : "Quantitative Researcher / Data Scientist in Finance and Physics"
   location         : "London, UK"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=vYV9IgQAAAAJ&hl=en"
-  email            :
+  email            : "james.o.hamp@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0000-7708-6410"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
