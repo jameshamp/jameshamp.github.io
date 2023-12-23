@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+## About
+
 I am a quantitative researcher / data scientist currently employed by Citigroup in London, 
 where I lead the development of data-driven analytics and automation for the FX options 
 trading business using modern quantitative techniques including machine learning.
