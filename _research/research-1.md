@@ -5,4 +5,4 @@ including classification of regimes in financial time series data <br/><img src=
 collection: portfolio
 ---
 
-This is an item in your portfolio. 
+Nonparametric analysis of time series data.
