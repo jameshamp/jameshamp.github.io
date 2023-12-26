@@ -2,7 +2,8 @@
 title: "Optimal transport and analysis of time series data"
 excerpt: "Analysis of time series data using techniques from optimal transport 
 including classification of regimes in financial time series data using the Wasserstein metric. 
-<br/>
+<br>
+<br>
 <img style='width: 500px;' src='/images/wasserstein.jpg'>"
 collection: research
 ---
