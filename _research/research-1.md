@@ -10,4 +10,4 @@ including classification of regimes in financial time series data using
 the Wasserstein metric.
 
 <br>
-<img src='/images/wasserstein.jpg'>
+<img style="max-height: 200px; max-width: 200px;" src='/images/wasserstein.jpg'>
