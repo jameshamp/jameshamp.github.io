@@ -7,7 +7,6 @@ including classification of regimes in financial time series data using the Wass
 <img style='width: 500px;' src='/images/wasserstein.jpg'>"
 collection: research
 ---
-
 Analysis of time series data using techniques from optimal transport 
 including classification of regimes in financial time series data using 
 the Wasserstein metric.

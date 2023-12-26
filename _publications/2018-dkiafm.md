@@ -6,8 +6,11 @@ excerpt: 'This paper is about the glassy freezing and supercooling that occurs i
 of a classical frustrated magnet on the kagome lattice.'
 date: 2018-06-01
 venue: 'Physical Review B'
-paperurl: 'https://arxiv.org/pdf/1806.02471.pdf'
+paperurl: '<a href="url">link text</a>'
 citation: James Hamp, Roderich Moessner, and Claudio Castelnovo Phys. Rev. B 98 144439 &lsqb;arXiv1806.02471&rsqb; (2018)
 ---
 This paper is about the glassy freezing and supercooling that occurs in a simple disorder-free model 
 of a classical frustrated magnet on the kagome lattice.
+
+[Physical Review B](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.144439)
+[ArXiv](https://arxiv.org/abs/1806.02471)
