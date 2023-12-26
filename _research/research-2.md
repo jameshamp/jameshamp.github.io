@@ -7,4 +7,4 @@ collection: research
 Investigation of behaviour of complex systems in and out of equilibrium, including phase transitions in spin systems.
 
 <br>
-<img  style="max-height: 200px; max-width: 200px;" src='/images/research_image.jpg'>
+<img  style="max-height: 100px; max-width: 100px;" src='/images/research_image.jpg'>
