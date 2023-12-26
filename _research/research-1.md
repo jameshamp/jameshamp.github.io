@@ -11,8 +11,9 @@ Analysis of time series data using techniques from optimal transport
 including classification of regimes in financial time series data using 
 the Wasserstein metric.
 
-<br>
 <!---
 <img style='max-height: 500px; max-width: 500px;' src='/images/wasserstein.jpg'>
 -->
+<br>
+<br>
 <img style='width: 500px;' src='/images/wasserstein.jpg'>
