@@ -12,5 +12,5 @@ citation: James Hamp, Roderich Moessner, and Claudio Castelnovo <i> Phys. Rev. B
 This paper is about the glassy freezing and supercooling that occurs in a simple disorder-free model 
 of a classical frustrated magnet on the kagome lattice.
 
-[Physical Review B](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.144439)
+[Physical Review B](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.144439)   
 [ArXiv](https://arxiv.org/abs/1806.02471)

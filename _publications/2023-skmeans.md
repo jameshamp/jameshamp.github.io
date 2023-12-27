@@ -8,10 +8,10 @@ the k-means algorithm adapted to empirical distributions via the Wasserstein met
 date: 2023-10-01
 venue: 'SSRN, ArXiv'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4587877'
-citation: 'Qinmeng Luan and James Hamp, <i> arXiv preprint arXiv:2310.01285 </i> (2023)'
+citation: 'Qinmeng Luan and James Hamp, <i> Available at SSRN </i> 4587877 (2023)'
 ---
 This paper is about clustering regimes in time series using a variation of 
 the k-means algorithm adapted to empirical distributions via the Wasserstein metric.
 
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4587877)
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4587877)   
 [ArXiv](https://arxiv.org/abs/2310.01285)
